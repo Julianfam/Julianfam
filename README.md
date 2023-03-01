@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @Julianfam
-- 👀 I’m interested in the design and interactive posibilities that can be created through programing, i've always work with topics arround desing, and in this new step, of becaming a Main Frontend developer is the aproach im going to take. 
+- 👀 I’m interested in the design and interactive posibilities that can be created through programing, i've always work with topics arround desing, and in this new step, of becaming a Frontend developer. 
 - 
 
-- 🌱 I’m currently preparing to became a FUll stack Developer with JavaScript, raect.js, next.js, node.js, coneccting with postgreSQL. Allways updating with ECMASCRIPT , always practicing to be better. 
+- 🌱 I’m currently preparing to became a FUll stack Developer with 
+- JavaScript, 
+- react.js, 
+- next.js, 
+- node.js, 
+- coneccting with postgreSQL. 
+- 
+- Allways updating with ECMASCRIPT , always practicing to be better. 
   
 - 💞️ I’m looking to collaborate on proyects that require FrontEnd habilities, full stack Javascript knowledge, and a collaborative design. 
 
